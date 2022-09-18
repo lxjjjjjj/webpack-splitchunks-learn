@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["vendor"],{3:function(n,o){n.exports="vendor1"},6:function(n,o){n.exports="vendor2"}}]);
