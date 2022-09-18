@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[730],{730:()=>{console.log("a module installed from npm")}}]);
